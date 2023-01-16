@@ -13,7 +13,7 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 - The .csv files are the datasets used in this analysis.
 - The .ipynb file is the notebook in which we worked on.
 
-**Other notebooks we consulted that served as support for our work, specifically in the exploratory data analysis**:
+Other notebooks we consulted that served as support for our work, specifically in the exploratory data analysis:
 - https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook
 - https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction
 
