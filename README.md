@@ -1,5 +1,4 @@
 # Sistemas Inteligentes para a Bioinformática
-## Intelligent Systems for Bioinformatics
 Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group project integrated in the Master's Degree in Bioinformatics at University of Minho, 2022/2023
 
 **Group members**:
