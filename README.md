@@ -45,11 +45,11 @@ The CSV files are the datasets used in this analysis.
   - 0: < 50% diameter narrowing. less chance of heart disease
   - 1: > 50% diameter narrowing. more chance of heart disease
 
-## In the notebook, you can find...
+## In the jupyter notebook file, you can find...
 - The data pre-processing
 - Exploratory data analysis
 - Statistical tests and correlation
-- Machine learning (Supervised learning)
+- Machine learning (Supervised learning, classification problem)
   - Model fitting (SVM, Logistic Regression and KNN models);
   - Ensemble (Bagging classifier, Random Forest and Voting Classifier);
   - Feature selection (Variance Threshold, Select K-Best and Select Percentile);
