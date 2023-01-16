@@ -7,9 +7,10 @@ Grupo:
 - Mariana Coelho, PG45967
 
 "Heart Attack Analysis & Prediction Dataset", a dataset for heart attack classification, available at https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
 The CSV files are the datasets used in this analysis.
 
-## About this dataset
+## About this dataset...
 - age : age of the patient
 - sex : sex of the patient
 - cp : chest pain type
@@ -46,7 +47,7 @@ The CSV files are the datasets used in this analysis.
   - 1: > 50% diameter narrowing. more chance of heart disease
 
 ## In the jupyter notebook file, you can find...
-- The data pre-processing
+- Data pre-processing
 - Exploratory data analysis
 - Statistical tests and correlation
 - Machine learning (Supervised learning, classification problem)
