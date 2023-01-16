@@ -1,14 +1,20 @@
-# Sistemas Inteligentes para a Bioinformática
-Repositório do projeto em grupo realizado no âmbito da UC de Sistemas Inteligentes para a Bioinformática do Mestrado em Bioinformática, 2022/2023
+# Intelligent Systems for Bioinformatics
+Repository of the group project carried out in the Intelligent Systems for Bioinformatics course of the Master's Degree in Bioinformatics, University of Minho, 2022/2023
 
-Grupo:
+Group members:
 - Ana Carolina Inácio, PG45459;
 - Ana Rafaela Pereira, PG45461;
 - Mariana Coelho, PG45967
 
 "Heart Attack Analysis & Prediction Dataset", a dataset for heart attack classification, available at https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-The CSV files are the datasets used in this analysis.
+File explanation:
+- The .csv files are the datasets used in this analysis.
+- The .ipynb file is the notebook in which we worked on.
+
+Other notebooks we consulted that served as support for our work, specifically in the exploratory data analysis step:
+- https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook
+- https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction
 
 ## About this dataset...
 - age : age of the patient
@@ -46,7 +52,7 @@ The CSV files are the datasets used in this analysis.
   - 0: < 50% diameter narrowing. less chance of heart disease
   - 1: > 50% diameter narrowing. more chance of heart disease
 
-## In the jupyter notebook file, you can find...
+## In the notebook, you can find...
 - Data pre-processing
 - Exploratory data analysis
 - Statistical tests and correlation
