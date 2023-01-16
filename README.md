@@ -7,6 +7,7 @@ Grupo:
 - Mariana Coelho, PG45967
 
 "Heart Attack Analysis & Prediction Dataset", a dataset for heart attack classification, available at https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+The CSV files are the datasets used in this analysis.
 
 ## About this dataset
 - age : age of the patient
@@ -43,3 +44,13 @@ Grupo:
 - output: diagnosis of heart disease (angiographic disease status)
   - 0: < 50% diameter narrowing. less chance of heart disease
   - 1: > 50% diameter narrowing. more chance of heart disease
+
+## In the notebook, you can find...
+- The data pre-processing
+- Exploratory data analysis
+- Statistical tests and correlation
+- Machine learning (Supervised learning)
+  - Model fitting (SVM, Logistic Regression and KNN models);
+  - Ensemble (Bagging classifier, Random Forest and Voting Classifier);
+  - Feature selection (Variance Threshold, Select K-Best and Select Percentile);
+  - Hyperparameter tuning (Grid Search and Randomized Parameter Optimization).
