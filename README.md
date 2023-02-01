@@ -10,8 +10,10 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 "Heart Attack Analysis & Prediction Dataset", a dataset for heart attack classification, available at https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
 **File explanation**:
-- The .csv files are the datasets used in this analysis.
-- The .ipynb file is the notebook in which we worked on.
+- The heart.csv file is the dataset used in this analysis.
+https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv
+- The sib_heart_disease_prediction.ipynb file is the notebook in which we worked on.
+https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb
 
 Other notebooks we consulted that served as support for our work:
 - https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning
@@ -64,3 +66,10 @@ Other notebooks we consulted that served as support for our work:
   - Feature selection (Variance Threshold, Select K-Best and Select Percentile);
   - Hyperparameter tuning (Grid Search and Randomized Parameter Optimization).
 - Deep learning (Neural Network)
+
+# Conclusions
+![transferir](https://user-images.githubusercontent.com/98289507/216116177-e249240d-4563-4d9b-b67b-4c684c66bf26.png)
+
+The Logistic Regression model performed best compared to the other algorithms. Apart from the latter, the Random Forest and Support Vector Machine models scored above 80%.
+
+The K-Nearest Neighbors, Decision Tree and Neural Network models had the lowest scores.
