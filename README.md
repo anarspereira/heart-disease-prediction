@@ -19,7 +19,6 @@ https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cc
 https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb
 
 
-
 Other notebooks we consulted that served as support for our work:
 - https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning
 - https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction - for the exploratory data analysis
@@ -83,3 +82,7 @@ Other notebooks we consulted that served as support for our work:
 The Logistic Regression model performed best compared to the other algorithms. Apart from the latter, the Random Forest and Support Vector Machine models scored above 80%.
 
 The K-Nearest Neighbors, Decision Tree and Neural Network models had the lowest scores.
+
+Due to the shape of the dataset, we were unable to perform any further analysis, namely the unsupervised learning clustering analysis.
+
+A future approach could be to use the XGBoost classifier algorithm and explore cross validation, hyperparameter tuning and neural networks in more depth.
