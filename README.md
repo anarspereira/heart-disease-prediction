@@ -19,6 +19,7 @@ https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cc
 https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb
 
 
+
 Other notebooks we consulted that served as support for our work:
 - https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning
 - https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction - for the exploratory data analysis
