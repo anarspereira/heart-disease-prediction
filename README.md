@@ -84,4 +84,5 @@ The Logistic Regression model performed best compared to the other algorithms. A
 The K-Nearest Neighbors, Decision Tree and Neural Network models had the lowest scores.
 
 Due to the shape of the dataset, we were unable to perform any further analysis, namely the unsupervised learning clustering analysis.
+
 A future approach could be to use the XGBoost classifier algorithm and explore cross validation, hyperparameter tuning and neural networks in more depth.
