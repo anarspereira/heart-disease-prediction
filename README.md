@@ -13,9 +13,9 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 - The .csv files are the datasets used in this analysis.
 - The .ipynb file is the notebook in which we worked on.
 
-Other notebooks we consulted that served as support for our work, specifically in the exploratory data analysis:
-- https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook
-- https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction
+Other notebooks we consulted that served as support for our work:
+- https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning
+- https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction - for the exploratory data analysis
 
 ## About this dataset...
 - **age**: age of the patient
@@ -49,7 +49,6 @@ Other notebooks we consulted that served as support for our work, specifically i
   - 1 = fixed defect
   - 2 = normal
   - 3 = reversable defect
-- **o2_saturation**: O2 saturation levels
 - **output**: diagnosis of heart disease (angiographic disease status) - target variable
   - 0: < 50% diameter narrowing. less chance of heart disease
   - 1: > 50% diameter narrowing. more chance of heart disease
@@ -58,8 +57,9 @@ Other notebooks we consulted that served as support for our work, specifically i
 - Data pre-processing
 - Exploratory data analysis
 - Statistical tests and correlation
-- Machine learning (Supervised learning, classification problem)
+- Supervised machine learning (classification problem)
   - Model fitting (SVM, Logistic Regression and KNN models);
   - Ensemble (Bagging classifier, Random Forest and Voting Classifier);
   - Feature selection (Variance Threshold, Select K-Best and Select Percentile);
   - Hyperparameter tuning (Grid Search and Randomized Parameter Optimization).
+- Deep learning
