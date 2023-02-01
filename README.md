@@ -10,13 +10,9 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 "Heart Attack Analysis & Prediction Dataset", a dataset for heart attack classification, available at https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
 **File explanation**:
-- The heart.csv file is the dataset used in this analysis.
+- The heart.csv file is the dataset used in this analysis, available at https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv
 
-https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv
-
-- The sib_heart_disease_prediction.ipynb file is the notebook in which we worked on.
-
-https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb
+- The sib_heart_disease_prediction.ipynb file is the notebook in which we worked on, available at https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb
 
 
 Other notebooks we consulted that served as support for our work:
