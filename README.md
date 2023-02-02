@@ -7,12 +7,12 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 - Mariana Coelho, PG45967
 
 **Dataset used in this project**:
-"Heart Attack Analysis & Prediction Dataset", a dataset for heart attack classification, available at https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+["Heart Attack Analysis & Prediction Dataset"](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset), a dataset for heart attack classification.
 
 **File explanation**:
-- The heart.csv file is the dataset used in this analysis, available at https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv
+- The [heart.csv file](https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv) is the dataset used in this analysis.
 
-- The sib_heart_disease_prediction.ipynb file is the notebook in which we worked on, available at https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb
+- The [sib_heart_disease_prediction.ipynb file](https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb) is the notebook in which we worked on.
 
 
 Other notebooks we consulted that served as support for our work:
