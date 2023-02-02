@@ -18,7 +18,7 @@ Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group
 Other notebooks we consulted that served as support for our work:
 - https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning
 - https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction - for the exploratory data analysis
-- https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning/blob/master/Heart_disease_prediction.ipynb - for the output final score plot
+- https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning - for the output final score plot
 
 -----
 
