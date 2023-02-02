@@ -2,23 +2,22 @@
 Repository of the Intelligent Systems for Bioinformatics Curricular Unit's group project integrated in the Master's Degree in Bioinformatics at University of Minho, 2022/2023
 
 **Group members**:
-- Ana Carolina Inácio, PG45459;
-- Ana Rafaela Pereira, PG45461;
+- Ana Carolina Inácio, PG45459
+- Ana Rafaela Pereira, PG45461
 - Mariana Coelho, PG45967
 
 **Dataset used in this project**:
 ["Heart Attack Analysis & Prediction Dataset"](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset), a dataset for heart attack classification.
 
 **File explanation**:
-- The [heart.csv file](https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv) is the dataset used in this analysis.
-
+- The [heart.csv file](https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/heart.csv) is the dataset used in this analysis;
 - The [sib_heart_disease_prediction.ipynb file](https://github.com/anarspereira/heart-disease-prediction/blob/c5dda01f4a0354a3cca7dd84851695d016ef64fb/sib_heart_disease_prediction.ipynb) is the notebook in which we worked on.
 
 
 Other notebooks we consulted that served as support for our work:
-- https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning
-- https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction - for the exploratory data analysis
-- https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning - for the output final score plot
+- https://www.kaggle.com/code/melikedilekci/heart-attack-analysis-prediction-86-7/notebook - for the exploratory data analysis and hyperparameter tuning;
+- https://www.kaggle.com/code/hsniyesakmak/heart-attack-analysis-prediction - for the exploratory data analysis;
+- https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning - for the output final score plot.
 
 -----
 
